@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.container {
+  @apply h-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.btn {
+  @apply py-3 px-6 rounded-full bg-blue-500 text-white hover:bg-blue-600 transition-all;
+}
+
+h1.title {
+  @apply text-2xl lg:text-3xl font-bold leading-relaxed;
+}
+
+h2.title {
+  @apply text-lg lg:text-xl font-semibold leading-relaxed;
+}

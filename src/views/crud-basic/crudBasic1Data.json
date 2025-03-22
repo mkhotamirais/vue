@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Todo 1",
+        "description": "Menyelesaikan laporan mingguan yang mencakup analisis performa proyek, evaluasi tim, serta rencana perbaikan untuk minggu berikutnya agar tujuan tetap tercapai dengan efisien."
+    },
+    {
+        "id": 2,
+        "title": "Todo 2",
+        "description": "Mempelajari teknologi terbaru dalam pengembangan web, termasuk eksplorasi framework modern seperti Next.js dan teknik optimalisasi performa agar aplikasi lebih cepat dan responsif."
+    },
+    {
+        "id": 3,
+        "title": "Todo 3",
+        "description": "Merancang ulang tampilan antarmuka pengguna untuk aplikasi mobile dengan fokus pada pengalaman pengguna yang lebih intuitif, responsif, dan estetis, menggunakan prinsip desain UI/UX yang terkini."
+    },
+    {
+        "id": 4,
+        "title": "Todo 4",
+        "description": "Menghadiri seminar tentang kecerdasan buatan dan implementasinya dalam dunia industri, termasuk bagaimana AI dapat meningkatkan efisiensi kerja serta mengoptimalkan pengambilan keputusan bisnis."
+    },
+    {
+        "id": 5,
+        "title": "Todo 5",
+        "description": "Menyusun strategi pemasaran digital untuk produk baru dengan meneliti tren pasar, menentukan target audiens, serta mengoptimalkan kampanye iklan melalui berbagai platform online seperti media sosial dan SEO."
+    },
+    {
+        "id": 6,
+        "title": "Todo 6",
+        "description": "Melakukan riset mendalam tentang keamanan siber, memahami ancaman terbaru seperti serangan phishing dan malware, serta mencari solusi untuk meningkatkan perlindungan data dan privasi pengguna."
+    },
+    {
+        "id": 7,
+        "title": "Todo 7",
+        "description": "Mengembangkan fitur baru pada aplikasi berbasis web yang memungkinkan pengguna mengatur jadwal kegiatan dengan lebih fleksibel, termasuk sistem notifikasi otomatis dan integrasi kalender digital."
+    },
+    {
+        "id": 8,
+        "title": "Todo 8",
+        "description": "Melakukan evaluasi kinerja server dengan menganalisis penggunaan sumber daya, mengidentifikasi potensi bottleneck, dan mencari solusi untuk meningkatkan efisiensi serta kecepatan respons sistem."
+    },
+    {
+        "id": 9,
+        "title": "Todo 9",
+        "description": "Menulis artikel teknis tentang pengembangan perangkat lunak, membahas konsep dasar hingga teknik lanjutan, dengan tujuan memberikan wawasan dan panduan bagi para developer pemula."
+    },
+    {
+        "id": 10,
+        "title": "Todo 10",
+        "description": "Menyusun roadmap pengembangan proyek untuk enam bulan ke depan, menentukan milestone penting, membagi tugas kepada tim, serta mengidentifikasi potensi tantangan yang mungkin dihadapi dalam prosesnya."
+    }
+]

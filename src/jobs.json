@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "title": "judul satu",
+        "type": "Part-Time",
+        "description": "Deskripsi pt mkhotami tambah lagi yag panjang banget karena nanti mau dipotong",
+        "location": "Jakarta",
+        "company": {
+            "name": "PT. MKHOTAMI",
+            "description": "Deskripsi pt mkhotami tambah lagi yag panjang banget karena nanti mau dipotong",
+            "contactEmail": "mkhotami@gmail.com",
+            "contactPhone": "12345"
+        }
+    },
+    {
+        "id": 2,
+        "title": "judul dua",
+        "type": "Full-Time",
+        "description": "deskripsi dua",
+        "location": "Jakarta",
+        "company": {
+            "name": "PT. AHMAD",
+            "description": "Deskripsi pt ahmad",
+            "contactEmail": "ahmad@gmail.com",
+            "contactPhone": "12345"
+        }
+    },
+    {
+        "id": 3,
+        "title": "judul tiga",
+        "type": "Contract",
+        "description": "deskripsi tiga",
+        "location": "Bandung",
+        "company": {
+            "name": "PT. BANDUNG JAYA",
+            "description": "Deskripsi pt bandung jaya",
+            "contactEmail": "bandungjaya@gmail.com",
+            "contactPhone": "67890"
+        }
+    },
+    {
+        "id": 4,
+        "title": "judul empat",
+        "type": "Internship",
+        "description": "deskripsi empat",
+        "location": "Surabaya",
+        "company": {
+            "name": "PT. SURABAYA MAKMUR",
+            "description": "Deskripsi pt surabaya makmur",
+            "contactEmail": "surabayamakmur@gmail.com",
+            "contactPhone": "54321"
+        }
+    },
+    {
+        "id": 5,
+        "title": "judul lima",
+        "type": "Freelance",
+        "description": "deskripsi lima",
+        "location": "Yogyakarta",
+        "company": {
+            "name": "PT. JOGJA KREATIF",
+            "description": "Deskripsi pt jogja kreatif",
+            "contactEmail": "jogjakreatif@gmail.com",
+            "contactPhone": "98765"
+        }
+    },
+    {
+        "id": 6,
+        "title": "judul enam",
+        "type": "Full-Time",
+        "description": "deskripsi enam",
+        "location": "Medan",
+        "company": {
+            "name": "PT. MEDAN SENTOSA",
+            "description": "Deskripsi pt medan sentosa",
+            "contactEmail": "medansentosa@gmail.com",
+            "contactPhone": "13579"
+        }
+    },
+    {
+        "id": 7,
+        "title": "judul tujuh",
+        "type": "Part-Time",
+        "description": "deskripsi tujuh",
+        "location": "Semarang",
+        "company": {
+            "name": "PT. SEMARANG ABADI",
+            "description": "Deskripsi pt semarang abadi",
+            "contactEmail": "semarangabadi@gmail.com",
+            "contactPhone": "24680"
+        }
+    },
+    {
+        "id": 8,
+        "title": "judul delapan",
+        "type": "Contract",
+        "description": "deskripsi delapan",
+        "location": "Bali",
+        "company": {
+            "name": "PT. BALI SEJAHTERA",
+            "description": "Deskripsi pt bali sejahtera",
+            "contactEmail": "balisejahtera@gmail.com",
+            "contactPhone": "11223"
+        }
+    }
+]
