@@ -4,9 +4,9 @@ defineProps({
     type: String,
     default: "Default Title",
   },
-  subtitle: {
+  description: {
     type: String,
-    default: "Default Subtitle",
+    default: "Default Description",
   },
 });
 </script>
@@ -14,6 +14,6 @@ defineProps({
 <template>
   <section class="py-4">
     <h1 class="title">{{ title }}</h1>
-    <p class="text-gray-600">{{ subtitle }}</p>
+    <p class="text-gray-600">{{ description }}</p>
   </section>
 </template>

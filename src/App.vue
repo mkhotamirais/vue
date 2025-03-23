@@ -4,6 +4,7 @@ import { routes } from "./router";
 import { useRoute } from "vue-router";
 import { RouterView } from "vue-router";
 import Logo from "@/components/Logo.vue";
+import Toast from "primevue/toast";
 
 const route = useRoute();
 const openNav = ref(false);
@@ -15,6 +16,7 @@ const toggleSubMenu = (i) => {
 </script>
 
 <template>
+  <Toast />
   <!-- header -->
   <header class="bg-white z-50 h-16 sticky top-0 shadow-md">
     <div class="container flex items-center justify-between">

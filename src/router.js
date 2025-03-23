@@ -14,7 +14,8 @@ import PublicApi from "@/views/public-api/Index.vue";
 import Jp from "@/views/public-api/jp/Index.vue";
 
 import CrudApi from "@/views/crud-api/Index.vue";
-import Crud1 from "@/views/crud-api/Crud1.vue";
+import CrudApi1 from "@/views/crud-api/CrudApi1.vue";
+import CrudApi1Det from "@/views/crud-api/CrudApi1Det.vue";
 
 import NotFound from "@/views/NotFound.vue";
 
@@ -51,7 +52,8 @@ export const routes = [
     name: "crud api",
     children: [
       { path: "", name: "crud api home", component: CrudApi },
-      { path: "/crud-api/less1", name: "crud api less1", component: Crud1 },
+      { path: "/crud-api/less1", name: "crud api less1", component: CrudApi1 },
+      { path: "/crud-api/less1/:id", name: "crud api less1 id", component: CrudApi1Det },
     ],
   },
   {
